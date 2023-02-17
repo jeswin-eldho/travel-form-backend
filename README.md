@@ -29,7 +29,7 @@ Or otherwise, you can set up a virtual environment from your IDE.
 ### Install development requirements
 
 ```
-pip install -r requirements/development.txt
+pip install -r requirements/requirements.txt
 ```
 
 ### Run migrations
