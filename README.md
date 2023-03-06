@@ -1,4 +1,4 @@
-# Backend code for travelopia test
+# Backend code for travel form
 Backend is created using Django and has two request types on the route **/forms**. One can make a POST to add data to the database and a GET to fetch all the available submissions from the database
 
 ## Steps to run the project
